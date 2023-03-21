@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello! I'm Chase 👋
 
-<!--
-**0xchase/0xchase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My personal website is at [https://chasekanipe.com](https://chasekanipe.com).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My interests include
+ - **Cybersecurity**: Vulnerability research, reverse engineering, cryptography, symbolic execution
+ - **Computer Science**: Rust, deep learning and AI, digital signal processing, formal methods
+ - **Physics**: Foundations of physics, quantum computing, statistical mechanics
+ - **Philosophy**: Epistemology, mind, causation, laws of nature, modality, religion, language
+ - **Music**: Piano, acoustic guitar, electric guitar, modular and desktop synthesizers, pedalboards
+ - **VFX**: Unreal Engine 5, Blender 3D, Houdini (a little bit)
+ - **Other**: Economics, finance, and law podcasts. Cognitive science and neuroscience.
